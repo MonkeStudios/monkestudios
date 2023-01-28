@@ -1,0 +1,15 @@
+{
+  "name": "Space Monke (Demo)",
+  "short_name": "Space Monke (Demo)",
+  "id": "com.monkestudios.spacemonke",
+  "description": "Space Monke - V1\n\nHi! Welcome to Version 1 of Space Monke, a shooter game where you attack vegetables with junk food! (will I elaborate? no!) Enjoy!",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "20e3e0eba717e62d53756ccfbc10707dd8191dfc26b7ed862e7d4f5d70466918-icon.png",
+        "sizes": "512x512"
+      }]
+}
